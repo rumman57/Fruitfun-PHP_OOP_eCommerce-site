@@ -10,15 +10,15 @@ This is an eCommerce site built by PHP in OOP way. Though it is not fully comple
  4. CRUD in Admin Panel & etc.
 
 
- <img src="images/readmeimages/fruitfun.jpg" width="850"  height="530" >
+ <img src="images/readmeimages/fruitfun.jpg"  >
 
- <img src="images/readmeimages/fru6.jpg" width="850"  height="530" >
+ <img src="images/readmeimages/fru6.jpg"  >
 
- <img src="images/readmeimages/faj434.jpg" width="850"  height="530" >
+ <img src="images/readmeimages/faj434.jpg"  >
 
- <img src="images/readmeimages/fadsf43.jpg" width="850"  height="530" >
+ <img src="images/readmeimages/fadsf43.jpg" >
 
- <img src="images/readmeimages/frui343.jpg" width="850"  height="530" >
+ <img src="images/readmeimages/frui343.jpg"  >
 
 
 
